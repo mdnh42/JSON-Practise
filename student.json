@@ -1,0 +1,48 @@
+{
+    "students": [
+
+        {
+            "name": "MD Nur Hasan",
+            "middile": "null",
+            "age": 34,
+            "cgpa": 4.25,
+            "isRegistrared": true,
+            "language":["Bengali", "English", "Hindi"],
+            "friends":[
+                {
+                    "name": "Rasel",
+                    "age" : 23
+                },
+        
+                {
+                    "name": "Arefin",
+                    "age": 23
+        
+                }
+            ]
+        },
+        
+        {
+            "name": "MD Nur",
+            "middile": "null",
+            "age": 32,
+            "cgpa": 3.25,
+            "isRegistrared": false,
+            "language":["Bengali", "English", "Hindi"],
+            "friends":[
+                {
+                    "name": "Rabbi",
+                    "age": 24
+                },
+        
+                {
+                    "name": "Sakhila",
+                    "age": 28
+        
+                }
+            ]
+        }    
+    ]
+}
+
+
